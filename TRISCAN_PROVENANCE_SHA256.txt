@@ -1,0 +1,5 @@
+TriScan provenance fingerprint
+Date: 2026-10-01
+SHA-256: 8b18bc51d7af14ab47d9679f3d124a4de3dbb28ac2c05ca428857e0e0b5d771c
+
+This SHA-256 fingerprint corresponds to a privately retained TriScan provenance package. No confidential engineering details are published in this repository.
